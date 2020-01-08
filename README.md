@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project 2: City Search app
+
+In this project we will allow the user to provide us a City name and we will display all of the associated zip codes to the user. 
+
+## 
+
 ## Available Scripts
 
 In the project directory, you can run:
